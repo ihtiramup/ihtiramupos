@@ -1,4 +1,4 @@
-dname: Windows RDPOS via Ngrok
+dname: Windows RDP via Ngrok
 
 on: [push]
 
